@@ -75,6 +75,9 @@ The following schedule is subject to change.
 * [Ansible: Up and Running](http://www.ansiblebook.com/)
 * [Continous Delivery](http://continuousdelivery.com/)
 * [Continous Integration](http://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
+* [Designing Data-Intensive Applications](http://dataintensive.net/)
+* [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
+* [The Practice of Cloud System Administration](http://the-cloud-book.com/)
 
 ##### Glossary of Tools
 
