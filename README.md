@@ -61,7 +61,7 @@ The following schedule is subject to change.
 | March 26th | Workshop: Deflighting          | &nbsp;     | HW #4 - Data Migration                |
 | March 31st | Tech Talks #3                  | &nbsp;     | MILESTONE: DEPLOY     |
 | April 2nd  | ~~~ Spring Holiday ~~~         | &nbsp;     | &nbsp;                |
-| April 7th  | Analysis + Monitoring          | [Flame Graphs](https://www.usenix.org/conference/lisa13/technical-sessions/plenary/gregg), [Splunk](http://www.splunk.com/), [NewRelic](http://newrelic.com/) | &nbsp;                   |
+| April 7th  | Analysis + Monitoring          | [Flame Graphs](https://www.usenix.org/conference/lisa13/technical-sessions/plenary/gregg), [Splunk](http://www.splunk.com/), [NewRelic](http://newrelic.com/), [A/B @ Bing](http://www.infoq.com/presentations/controlled-experiments) | &nbsp;                   |
 | April 9th  | Workshop: A/B + Resilience Testing | [Chaos Monkey](https://github.com/Netflix/SimianArmy)     | &nbsp;                   |
 | April 14th | Auditing              | &nbsp;     | &nbsp;                   |
 | April 16th | Guest Slot            | &nbsp;     | MILESTONE: SPECIAL       |
