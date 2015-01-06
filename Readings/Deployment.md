@@ -2,6 +2,7 @@ A list of deployment articles by various software companies
 
 * [pinterest](http://engineering.pinterest.com/post/70621633046/deploying-software-at-pinterest)
 * [IBM DevOps](http://public.dhe.ibm.com/software/uk/itsolutions/businessconnect2013/dk_pdf/SmarterBusiness-Denmark_Oct_8th_2013_v2.pdf)
+* [Facebook](http://www.infoq.com/presentations/Facebook-Release-Process)
 
 ### Netflix 
 
