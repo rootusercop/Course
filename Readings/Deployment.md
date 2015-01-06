@@ -4,7 +4,7 @@ A list of deployment articles by various software companies
 * [IBM DevOps](http://public.dhe.ibm.com/software/uk/itsolutions/businessconnect2013/dk_pdf/SmarterBusiness-Denmark_Oct_8th_2013_v2.pdf)
 * [Facebook](http://www.infoq.com/presentations/Facebook-Release-Process)
 * [Flickr](http://cdn.oreillystatic.com/en/assets/1/event/29/10+%20Deploys%20Per%20Day_%20Dev%20and%20Ops%20Cooperation%20at%20Flickr%20Presentation.pdf)
-
+* [etsy](http://www.infoq.com/news/2014/03/etsy-deploy-50-times-a-day)
 
 ### Netflix 
 
