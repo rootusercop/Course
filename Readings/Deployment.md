@@ -9,5 +9,6 @@ A list of deployment articles by various software companies
 
 * [deploying netflix api](http://techblog.netflix.com/2013/08/deploying-netflix-api.html)
 * [preparing for deployment](http://techblog.netflix.com/2013/11/preparing-netflix-api-for-deployment.html)
-* [infrastructure](http://highscalability.com/blog/2011/12/12/netflix-developing-deploying-and-supporting-software-accordi.html)
+* [deploying infrastructure](http://highscalability.com/blog/2011/12/12/netflix-developing-deploying-and-supporting-software-accordi.html)
+* [auto-scaling](http://techblog.netflix.com/2013/11/scryer-netflixs-predictive-auto-scaling.html)
 
