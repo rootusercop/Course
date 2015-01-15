@@ -39,7 +39,7 @@ The following schedule is subject to change.
 |----------|----------------------------------|------------| ----------            |
 | Jan 8th  | Hello                            | &nbsp;     |  &nbsp;               | 
 | Jan 13th | Core Concepts + Skills           | &nbsp;     |  &nbsp;               |
-| Jan 15th | Workshop: Git, Branches, Servers | &nbsp;     |  &nbsp;               |
+| Jan 15th | Workshop: Git, Branches, Servers | [Site](https://github.ncsu.edu/CSC-DevOps-Spring2015/ServersWorkshop)     |  &nbsp;               |
 | Jan 20th | Configuration Management         | &nbsp;     |  &nbsp;               |
 | Jan 22nd | Workshop: Managed Environments   | [Docker](), [Chef](), [Vagrant](), [Ansible]()     |  HW #1 - Provisioning Servers |
 | Jan 27th | Build Management                 | &nbsp;     |  &nbsp;               |
