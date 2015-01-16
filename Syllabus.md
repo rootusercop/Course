@@ -8,7 +8,8 @@ North Carolina State University
 | Readings     | Provided by instructor   |
 | Credit-hours | 3                        |
 | Office Hours | EBII 3270, Thur 11am-12pm|
-
+| Lecture      | EBII 1226, TuTh 9:35-10:50pm|
+| TA           | Qiang Zhang (qzhang15@ncsu.edu)|
 
 ## Prerequisites
 CSC510 (Software Engineering) or graduate or senior standing with
